@@ -10,6 +10,6 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-This organization is for our **[Software Engineering Lab](https://github.com/AuthentiDocs/authentidocs)** of Senior year first term in BUET CSE Undergrad
+This organization is for our **[Software Engineering Lab Project](https://github.com/AuthentiDocs/authentidocs)** of Senior year first term in BUET CSE Undergrad
 
 Github suggested adding some fun facts, so here goes one: you cannot lick your elbow with your eyes closed.
